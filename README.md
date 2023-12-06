@@ -1,6 +1,7 @@
 # EC601-project2
 
 Production Mission Statement
+
 • The website can plan some safe routes for runner to choose so that the runner 
 can run in a much more safe condition
 • Also runner can chose the distance for running route, the website can process the 
@@ -11,17 +12,23 @@ considerations.
 who allergy to pollen.
 • So the function above the can plan a safe route for runner
 
+
 Develop product user stories
+
 • User Story one: 
 • I am a runner who always run 5 mile in the evening after my dinner, I want to
 choose a route which has little traffic and is quiet.
+
 • User Story two:
 • I am a middle school student, I want to run in a safe route with good district 
 policing so that my parents will not worry too much.
+
 • User Story three:
 • I have pollen allergies, I want to run in a route without pollen distribution.
 
+
 Develop an MVP
+
 • Most Valuable 
 • Set up the route according to the choose for distance
 • Select the routes which have less traffic and more safe
