@@ -1,4 +1,4 @@
-# EC602-project2
+# EC601-project2
 
 google map
 This is the web page by calling google map API, the interface can choose: running distance (1-10mile), whether allergic to pollen, whether you want to avoid the road with a lot of cars these three, and then call Google map API, for the runner to plan a route and display on the web page.
